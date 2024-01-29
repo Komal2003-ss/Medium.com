@@ -1,0 +1,10 @@
+.main_body_right{
+    width: 40% !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.MainBtnAll{
+    display: flex;
+    gap: 20px;
+}

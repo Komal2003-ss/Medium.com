@@ -1,0 +1,33 @@
+.navigation img{
+    width: 170px;
+}
+.navbar{
+    background-color: #FFC017;
+    border-bottom: 1px solid black;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    position: sticky;
+    top: 0;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    width: 1280px;
+    margin: 0 auto;
+    /* width: 100%; */
+    /* padding: 20px 30px; */
+    align-items: center;
+}
+.navigation .nav_link ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    align-items: center;
+    font-size: 15px;
+}
+.navigation .nav_link{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}

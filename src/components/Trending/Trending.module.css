@@ -1,0 +1,11 @@
+.trending_section{
+    display: flex;
+    gap: 20px;
+    width: 1280px;
+    margin: 30px auto;
+}
+.trending_top_head{
+    width: 1280px;
+    margin: 30px auto;
+    font-size: 18px;
+}

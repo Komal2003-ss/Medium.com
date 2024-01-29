@@ -1,0 +1,25 @@
+.trending_box{
+    display: flex;
+    gap: 20px;
+    width: 32%;
+}
+.trending_number{
+    font-size: 34px;
+    color: #ddd;
+}
+.trending_content{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.trending_content h3{
+    font-size: 14px;
+}
+.trending_content p{
+    font-size: 17px ;
+    font-weight: bold;
+}
+.trending_content span{
+    font-size: 14px;
+    color: grey;
+}

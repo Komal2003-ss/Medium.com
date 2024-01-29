@@ -1,0 +1,32 @@
+.slider_section{
+    background-color: #FFC017;
+    height: 80vh;
+    padding: 0 70px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid black;
+
+}
+
+.slider_right{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    width: 50%;
+}
+.slider_right h1{
+    font-weight: 500;
+    font-size: 100px;
+}
+.slider_right p{
+    font-size: 25px;
+    width: 80%;
+    padding: 40px 0;
+    line-height: 28px;
+    font-weight: 500;
+}
+.slider_right button{
+    font-size: 20px;
+    padding: 12px 60px;
+    border-radius: 30px;
+}
